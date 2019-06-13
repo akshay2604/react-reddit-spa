@@ -1,0 +1,27 @@
+.subreddit {
+  padding: 10px;
+}
+.post {
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  justify-content: space-between;
+}
+.row1-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+}
+.image-container {
+  border-color: rgb(214, 225, 233);
+  border-style: ridge;
+  display: inline-flex;
+  /* width: 100px; */
+  height: 130px;
+  padding-right: 20px;
+}
+/* .row2-container {
+  background-color: #fff;
+  border-radius: 4px;
+} */
