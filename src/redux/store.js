@@ -27,7 +27,7 @@ export function configureStore (initialState) {
 
   // to clear state
 
-  persistor.purge ();
+//   persistor.purge ();
 
   return {store, persistor};
 }
