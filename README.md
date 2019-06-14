@@ -3,7 +3,8 @@
 ### Steps to run locally
 
 ```js
-    npm run build
+    cd <project-directory>
+    npm start
 ```
 
 ## Deployment
